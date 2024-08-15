@@ -1,7 +1,7 @@
 # _*André Hernandes Turelo*_
 
 ## Sobre mim
-Um aprendiz que esta iniciando o aprendizado em programação linguagem C#
+Um desenvolvedor junior que esta iniciando o aprendizado na linguagem C#
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-turelo/)
